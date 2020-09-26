@@ -1,0 +1,42 @@
+Body{
+
+
+}
+.nav{
+  display: flex;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  font-family: "Jura";
+
+  white-space:nowrap;
+
+}
+ul{
+  text-decoration: none;
+  list-style-type: none;
+  display: inline-block;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  font-family: "Jura";
+
+
+
+}
+li{
+  padding: 0 40px;
+  text-decoration: none;
+  list-style-type: none;
+  display: inline-block;
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  font-family: "Jura";
+
+
+}
+.kkkk{
+  display: inline-block;
+  padding: 0 1px;
+}
